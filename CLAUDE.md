@@ -27,7 +27,7 @@
 
 ## Группа «Место под соснами» (новый проект)
 - vk.com/mesto_podsosnami96, id 217809480: аренда домика с баней и чаном под Екатеринбургом. Нужен свой бот (ЛС, заявки на бронь → Telegram, автопостинг, клипы), не модератор барахолки.
-- Контент: `vk-sound-bot/mesto/` (facts.md, posts.json, clips.json), ветка claude/cloud-status-check-hqh3uf. Фото и все посты — на сервере wpsblacktop_com в /srv/personal-mcp/mesto/.
+- Контент: `vk-sound-bot/mesto-pod-sosnami/` (своя память CLAUDE.md + content/); группу ведёт жена владельца — писать для неё просто, ветка claude/cloud-status-check-hqh3uf. Фото и все посты — на сервере wpsblacktop_com в /srv/personal-mcp/mesto/.
 - VK из облака недоступен; читаем через сервер wpsblacktop_com сервисным ключом (ключ в чате засвечен — рекомендован перевыпуск, в репозиторий не класть).
 
 ## Журнал
